@@ -61,7 +61,11 @@ footer-text: Copyright (c) 2019 lemon
 # You can find your shortname on the Settings page of your Disqus account
 disqus: # fromendworld
 
-# Gitalk
+gitalk:
+  clientID: 2b6bc81cb55d031d7850
+  clientSecret: bf35515e543b285e7130063c6d1defee4c84bf5a
+  repo: zhidandeng.github.io
+  owner: zhidandeng
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
